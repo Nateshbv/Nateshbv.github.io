@@ -10,6 +10,6 @@ title: Research
 
 ## Ongoing
 - Working on FogSoundNet: Acoustic bassed Industrial Machine Monitoring using the Computing Continuum Environment
-- QoS based Service Deployment in the CoME prototype using Computing Conituum
+- QoS based Service Deployment in Computing Conituum
 - AI-based Resource Prediction and Service Deployment in the Computing Continuum. 
 
