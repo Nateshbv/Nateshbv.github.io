@@ -1,3 +1,7 @@
+---
+layout: default
+title: Publications
+---
 ## List of Journals 
 - **Banavase Venkategowda Natesha** and Luiz F Bittencourt "Service Placement in the Computing Continuum for Delay-Sensitive IoT/IIoT Applications", Journal of Network and Systems Management (IF:3.02 ), Vol=33, Issue=4, Pages=89, Year=2025, DOI="https://doi.org/10.1007/s10922-025-09964-7", (Q1-Journal, SCIE & Scopus Indexed).
 -  **Natesha, B. V** and Ram Mohana Reddy Guddeti, "Meta-heuristic Based Hybrid Service Placement Strategies for Two-Level Fog Computing Architecture", Journal of Network and Systems Management (IF:2.026 ), Vol=30, Issue=3, Pages=1-23, Year=2022, DOI="https://doi.org/10.1007/s10922-022-09660-w", (Q1- Journal, SCIE & Scopus Indexed).
