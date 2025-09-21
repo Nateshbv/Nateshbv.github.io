@@ -1,6 +1,7 @@
 # Welcome to My Website
 
-Hi! I’m Natesh. This is my personal website hosted on GitHub Pages using the Cayman theme.
+![Natesh B V](assets/images/myphoto.jpg){: class="home-photo" }
+
 
 You can navigate to other sections below:
 
