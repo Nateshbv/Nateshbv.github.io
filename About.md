@@ -51,5 +51,5 @@ Research work focused on developing the Fog Frameworks for IoT/IIoT Service Plac
 - Watching Cricket
 - Reading Books
 - Farming
-- Cooking for 
+- Cooking 
 - Travelling
