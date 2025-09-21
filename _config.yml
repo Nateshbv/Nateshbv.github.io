@@ -8,19 +8,19 @@ nav:
   - title: Home
     url: /
   - title: About
-    url: /about.html
+    url: /About.html
   - title: Research
-    url: /research.html
+    url: /Research.html
   - title: Courses
-    url: /courses.html
+    url: /Courses.html
   - title: Projects
-    url: /projects.html
+    url: /Projects.html
   - title: Publications
-    url: /publications.html
+    url: /Publications.html
   - title: Services
-    url: /services.html
+    url: /Services.html
   - title: Contact
-    url: /contact.html
+    url: /Contact.html
 
 # Plugins for SEO
 plugins:
