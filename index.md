@@ -4,7 +4,7 @@ Hi! I’m Natesh. This is my personal website hosted on GitHub Pages using the C
 
 You can navigate to other sections below:
 
-- [About](about.md)
+- [About](About.md)
 - [Research](Research.md)
 - [Courses](Courses.md)
 - [Projects](Projects.md)
