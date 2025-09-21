@@ -7,6 +7,7 @@ title: Research
 Edge, Fog Computing, Cloud Computing, IoT/IIoT, Machine Learning, Edge AI and 5G
 
 ## Research
+
 ## Recognised Researcher@Barcelona Supercomputing Center, Spain
 
 Worked as a Recognised Researcher in the Predictable Parallel Computing Group, Computer Science Dept., Barcelona Supercomputing Center. My research work mainly focussed on orchestrating (deployment and monitoring) the workflow on the computing continuum consisting of Edge/Fog and Cloud resources for the realtime/time-senstive applications. 
