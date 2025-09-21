@@ -1,3 +1,14 @@
 title: My Website
 description: Personal website of Natesh B V
 theme: jekyll-theme-cayman
+
+# Navigation links
+nav:
+  - title: Home
+    url: /index.md
+  - title: About
+    url: /about.md
+  - title: Projects
+    url: /projects.md
+  - title: Contact
+    url: /contact.md
