@@ -48,8 +48,10 @@ nav a.active {
 main {
   max-width: 900px;
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 60px 20px 20px 20px; /* top padding added */
+  min-height: calc(100vh - 160px); /* ensures footer stays at bottom for short pages */
 }
+
 
 section {
   margin-bottom: 40px;
@@ -105,11 +107,7 @@ ul {
 
 /* ----- Footer ----- */
 footer {
-  background-color: #2c3e50;
-  color: #fff;
-  text-align: center;
-  padding: 20px 0;
-  margin-top: 40px;
+  margin-top: 60px; /* adds extra space above footer */
 }
 
 /* ----- Links ----- */
