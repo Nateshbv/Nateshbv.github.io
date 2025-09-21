@@ -1,3 +1,7 @@
+---
+layout: default
+title: Services
+---
 ## Reviewer
 - IEEE Transactions on Services Computing
 - IEEE Transactions on Parallel and Distributed Systems
