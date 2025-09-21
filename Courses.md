@@ -1,3 +1,7 @@
+---
+layout: default
+title: Courses
+---
 ## Courses Taught  
 
 Under Graduates
