@@ -1,23 +1,27 @@
-# title: Welcome.... to My Website...!!
-description: Personal website of Natesh B V
+title: Dr. Natesh B V
+description: Personal website of Dr. Natesh B V – Academic, Researcher, and Educator
+url: https://username.github.io   # replace with your GitHub Pages URL
 theme: jekyll-theme-cayman
 
 # Navigation links
 nav:
   - title: Home
-    url: /index.html
+    url: /
   - title: About
-    url: /About.html
+    url: /about.html
   - title: Research
-    url: /Research.html
+    url: /research.html
   - title: Courses
-    url: /Courses.html
+    url: /courses.html
   - title: Projects
-    url: /Projects.html
+    url: /projects.html
   - title: Publications
-    url: /Publications.html
+    url: /publications.html
   - title: Services
-    url: /Services.html
+    url: /services.html
   - title: Contact
-    url: /Contact.html
+    url: /contact.html
 
+# Plugins for SEO
+plugins:
+  - jekyll-sitemap
