@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-![Natesh B V](assets/images/myphoto.jpg){: class="home-photo" }
+![Natesh B V](assets/images/nata.png)
 
 
 You can navigate to other sections below:
