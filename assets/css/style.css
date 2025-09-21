@@ -16,6 +16,11 @@ header {
   text-align: center;
 }
 
+p, li {
+  text-align: justify; /* justifies the text */
+  text-justify: inter-word; /* better spacing between words */
+}
+
 header h1 {
   margin: 0;
   font-size: 2em;
