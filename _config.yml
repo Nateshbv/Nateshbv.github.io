@@ -5,19 +5,19 @@ theme: jekyll-theme-cayman
 # Navigation links
 nav:
   - title: Home
-    url: /index.md
+    url: /index.html
   - title: About
-    url: /About.md
+    url: /About.html
   - title: Research
-    url: /Research.md
+    url: /Research.html
   - title: Courses
-    url: /Courses.md
+    url: /Courses.html
   - title: Projects
-    url: /Projects.md
+    url: /Projects.html
   - title: Publications
-    url: /Publications.md
+    url: /Publications.html
   - title: Services
-    url: /Services.md
+    url: /Services.html
   - title: Contact
-    url: /Contact.md
+    url: /Contact.html
 
