@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contact
+---
 ## You can reach me at:
 
 #204, Dept. of CS&E, 
