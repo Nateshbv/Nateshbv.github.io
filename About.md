@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About Me
 
 Hello! I’m Dr. Natesha B V. Working as a Assistant Professor in the Department of Computer Science and Engineering in Indian Institute of Information Technology Raichur. My Research work focuses on Resources Orchestrationa and Service Deployment in the Computing Continuum consistin of Edge, Fog and Cloud Computing, AI for appplications such as Smart Cities, Smart Industry (Industry 4.0) and other delay sensitive applications. 
