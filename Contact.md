@@ -21,4 +21,4 @@ nateshbv[at]iiitr[dot]ac[dot]in
 
 ## For Publications Details: 
 
-- **Google Scholar** [Dr. Natesha B A](https://scholar.google.com/citations?user=aL_IjFgAAAAJ&hl=en&oi=ao)
+- **Google Scholar** [Dr. Natesha B V](https://scholar.google.com/citations?user=aL_IjFgAAAAJ&hl=en&oi=ao)
