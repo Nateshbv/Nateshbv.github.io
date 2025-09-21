@@ -37,7 +37,7 @@ Research work focused on developing the Fog Frameworks for IoT/IIoT Service Plac
 -Received Best Paper Award for the Paper "Fog-based Video Surveillance System for Smart City Applications," Presented at the 8th International Conference on Frontiers of Intelligent Computing: Theory and Apps. (FICTA 2020), NITK, Surathkal.
 
 - Awarded Gold Medal for securing Second Rank in M.Tech (Computer Network Engineering) from "The National Institute of Engineering" Mysore. 
-- Qualified GATE-2012 and received a scholarship for Post Graduation from MHRD, Government of India, (2012-2014).-
+- Qualified GATE-2012 and received a scholarship for Post Graduation from MHRD, Government of India, (2012-2014).
 ---
 
 ## Hobbies
