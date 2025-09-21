@@ -7,8 +7,17 @@ nav:
   - title: Home
     url: /index.md
   - title: About
-    url: /about.md
-  - title: Projects
-    url: /projects.md
+    url: /About.md
+  - title: Research
+    url: /Research.md
+  - title: Courses
+    url: /Courses.md
+  - title: Project
+    url: /Project.md
+  - title: Publications
+    url: /Publications.md
+  - title: Services
+    url: /Services.md
   - title: Contact
-    url: /contact.md
+    url: /Contact.md
+
