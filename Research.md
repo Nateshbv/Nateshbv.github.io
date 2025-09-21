@@ -1,3 +1,7 @@
+---
+layout: default
+title: Research
+---
 ## Broad Research Topics
 
 Edge, Fog Computing, Cloud Computing, IoT/IIoT, Machine Learning, Edge AI and 5G
