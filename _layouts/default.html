@@ -3,7 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="robots" content="index, follow">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -24,10 +26,9 @@
     </main>
 
     <!-- Footer -->
-<!--     <footer>
+    <footer>
       <p>“Education is the most powerful weapon which you can use to change the world.” – Nelson Mandela</p>
-    </footer> -->
+    </footer>
   </div>
 </body>
 </html>
-
