@@ -22,8 +22,8 @@ My academic and research contributions aim to enhance efficiency, scalability, a
 ## Research Experience
 
 - Recognised Researcher in the Predictable Parallel Computing Group, Computer Science Dept., Barcelona Supercomputing Center, Barcelona (September, 2023) worked on Orchestrator development for the Computing Continuum Environment. 
-- Postdoctoral/Visiting Researcher from Dec-2021 to July-2022 at the Computer Network Laboratory (LRC), Institute of Computing, State University of Campinas, Sao Paulo, Brazil.
-- Research work focused on developing the orchestration controller for dynamic deployment of the user requests' on multi-level (Edge/Fog-Cloud) computing architectures. (Project: In Co-ordination with Ericsson Brazil and Sweden)
+- Postdoctoral/Visiting Researcher  at the Computer Network Laboratory (LRC), Institute of Computing, State University of Campinas, Sao Paulo, Brazil (In Co-ordination with Ericsson Brazil and Sweden from Dec-2021 to July-2022). Worked on developing the orchestration controller for dynamic deployment of the user requests' on multi-level (Edge/Fog-Cloud) computing architectures.
+  
 - Research Scholar, Dept. of IT, NITK Surathkal. 
 Research work focused on developing the Fog Frameworks for IoT/IIoT Service Placement and Data Analytics on the Resource-Constrained Devices.
 
@@ -41,7 +41,7 @@ Research work focused on developing the Fog Frameworks for IoT/IIoT Service Plac
 ## Achievements
 
 - Recipient of the "**Visvesvaraya Ph.D. Fellowship** from the Ministry of Electronics & Information Technology (MeitY)," Government of India (2016-2021). 
--Received Best Paper Award for the Paper "Fog-based Video Surveillance System for Smart City Applications," Presented at the 8th International Conference on Frontiers of Intelligent Computing: Theory and Apps. (FICTA 2020), NITK, Surathkal.
+- Received Best Paper Award for the Paper "Fog-based Video Surveillance System for Smart City Applications," Presented at the 8th International Conference on Frontiers of Intelligent Computing: Theory and Apps. (FICTA 2020), NITK, Surathkal.
 - Awarded **Gold Medal for securing Second Rank** in M.Tech (Computer Network Engineering) from "The National Institute of Engineering" Mysore.
 - Qualified GATE-2012 and received a scholarship for Post Graduation from MHRD, Government of India, (2012-2014).
 
