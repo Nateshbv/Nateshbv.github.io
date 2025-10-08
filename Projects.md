@@ -11,7 +11,7 @@ title: Research
 ## Ongoing
 - FogSoundNet: Acoustic based Industrial Machine Monitoring using the Computing Continuum Environment
 - AI-based Resource Prediction and Service Deployment in the Continuum
-- QoS based Service Deployment in Computing Continuum
+- QoS based Service Deployment in the Computing Continuum
 - EdgeAI for Smart Applications
  
 
