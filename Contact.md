@@ -5,8 +5,8 @@ title: Contact
 ## You can reach me at:
 
 #211, Dept. of CS&E, 
-IIITR, Tranist Campus GEC
-Yermarus Camp, Raichur, Karnataka - 584135
+IIITR, Traansit in  GEC Campus
+Yermaras Camp, Raichur, Karnataka - 584135
 
 
 ## You can reach me virtually: 
