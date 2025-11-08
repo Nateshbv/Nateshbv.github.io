@@ -15,8 +15,11 @@ Worked as a Recognised Researcher in the Predictable Parallel Computing Group, C
 ### Visiting Researcher/Postdoctoral Researcher @UNICAMP, Brazil
 As a Visiting Researcher/Postdoctoral Researcher at LRC, UNICAMP, worked on developing the orchestration controller for dynamic deployment of the user requests on multi-level computing architecture. The Video Streaming/VoD requests are handled using the multi-level Edge/Fog-Cloud Computing Architecture to stream videos and thus ensure the viewers' QoE and QoS. 
 
+Supervisor: **Prof. Luiz Fernando Bittencourt**
+
 ### Doctoral Researcher @NITK, Surathkal, Karnataka
 Doctoral research focused on developing the fog framework on the resources constrained devices using docker containers to host and process the IoT/IIoT service requests. Developed a container-based two-level fog framework and then proposed various multi-objective optimization-based service placement strategies using evolutionary algorithms to place the IoT/IIoT service requests in the fog framework. The fog server-based prototype is developed to analyze and classify the machine's operating sounds as normal and abnormal and thus monitor the malfunctioning machines based on their operating sounds in the Smart Industry/Industry 4.0 environment. Further, the fog framework is used to analyze the videos at the device level to identify and classify the vehicles, normal and abnormal activities in Smart Surveillance Environments. 
+Supervisor: **Prof. G Ram Mohana Reddy Guddeti ** 
 
 ## Research Interests
 - Orchestrating the service deployment and monitoring the resource in the computing continumm consisting of the Edge-Fog-Cloud Computing Environment. 
