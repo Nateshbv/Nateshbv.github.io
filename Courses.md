@@ -9,7 +9,7 @@ Under Graduates
 - Introduction to Programming 
 - Computer Organization and Architecture
 - Computer Networks
-- Introduction to Linux Systsems
+- Introduction to Linux Systems
 - Discrete Mathematics
 - Data Structures
 - Operating Systems
