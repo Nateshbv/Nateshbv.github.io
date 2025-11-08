@@ -8,11 +8,13 @@ Edge, Fog Computing, Cloud Computing, IoT/IIoT, Machine Learning, Edge AI and 5G
 
 ## Research Work
 
-### Recognised Researcher @Barcelona Supercomputing Center, Spain
+### Recognised Researcher @ **Barcelona Supercomputing Center**, Spain
 
 Worked as a Recognised Researcher in the Predictable Parallel Computing Group, Computer Science Dept., Barcelona Supercomputing Center. My research work mainly focussed on orchestrating (deployment and monitoring) the workflow on the computing continuum consisting of Edge/Fog and Cloud resources for the realtime/time-senstive applications. 
 
-### Visiting Researcher/Postdoctoral Researcher @UNICAMP, Brazil
+Group: **Predictable Parallel Computing - Computer Sciences**
+
+### Visiting Researcher/Postdoctoral Researcher @ **Institute of Computing, University of Campinas**, Brazil
 As a Visiting Researcher/Postdoctoral Researcher at LRC, UNICAMP, worked on developing the orchestration controller for dynamic deployment of the user requests on multi-level computing architecture. The Video Streaming/VoD requests are handled using the multi-level Edge/Fog-Cloud Computing Architecture to stream videos and thus ensure the viewers' QoE and QoS. 
 
 Supervisor: **Prof. Luiz Fernando Bittencourt**
