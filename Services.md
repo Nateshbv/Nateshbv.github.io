@@ -23,5 +23,5 @@ title: Services
 
 ## Co-ordinator
 
-- Working as TTO head for the NAIN 2.0 initiative from Department of IT and BT, Governament of Karnataka. 
+- Working as TTO head for the NAIN 2.0 initiative from Department of IT and BT, Government of Karnataka. 
 
