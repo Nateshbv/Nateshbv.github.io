@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## List of Journals 
-1. Pooja Balagouda Patil, Rashmi M, **Natesha B V**, Ramya D Shetty "Explainable Ensemble-Based Machine Learning Model For Polycystic Ovary Syndrome Detection Using Hybrid Feature Selection", International Journal of Information Technology (Accepted, Scopus Indexed, Q2-Journal)
+1. Pooja Balagouda Patil, Rashmi M, **Natesha B V**, Ramya D Shetty "Explainable Ensemble-Based Machine Learning Model For Polycystic Ovary Syndrome Detection Using Hybrid Feature Selection", International Journal of Information Technology, Year=2025, DOI= "https://doi.org/10.1007/s41870-025-03044-4",(Scopus Indexed, Q2-Journal). 
 2. **Banavase Venkategowda Natesha** and Luiz F Bittencourt "Service Placement in the Computing Continuum for Delay-Sensitive IoT/IIoT Applications", Journal of Network and Systems Management (IF:3.9 ), Vol=33, Issue=4, Pages=89, Year=2025, DOI="https://doi.org/10.1007/s10922-025-09964-7", (Q1-Journal, SCIE & Scopus Indexed).
 3. **Natesha, B. V** and Ram Mohana Reddy Guddeti, "Meta-heuristic Based Hybrid Service Placement Strategies for Two-Level Fog Computing Architecture", Journal of Network and Systems Management (IF:3.2 ), Vol=30, Issue=3, Pages=1-23, Year=2022, DOI="https://doi.org/10.1007/s10922-022-09660-w", (Q1- Journal, SCIE & Scopus Indexed).
 4. **Natesha B V** and Ram Mohana Reddy Guddeti, "Fog-based Intelligent Machine Malfunction Monitoring System for Industry 4.0", IEEE Transactions on  Industrial Informatics (IF:10.215), Vol=17, Issue=12, Pages=7923-7932, Year=2021, DOI="https://doi.org/10.1109/TII.2021.3056076", (Q1-Journal, SCIE & Scopus Indexed).
