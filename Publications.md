@@ -14,9 +14,9 @@ title: Publications
 
 ## List of Conference Papers
 
-1. Swastik R and **Natesha B V**, “Synthetic Physics as Supervision: Learning Real-World Physical Reasoning in Vision-Language Models” Proceedings of the AI4Physics Workshop at the 43^{rd} International Conference on Machine Learning (AI4Physics ICML 2026), Seoul, South
+1. Swastik R and **Natesha B V**, “Synthetic Physics as Supervision: Learning Real-World Physical Reasoning in Vision-Language Models” Proceedings of the AI4Physics Workshop at the 43rd International Conference on Machine Learning (AI4Physics ICML 2026), Seoul, South
 Korea. 2026.
-2. Shivam Yadav, Subhav Kumar and **Natesha B V**, “ PCA-based Defense Against Embedding Inversion and User History Leakage in Recommendation Systems” in the Proc. of IEEE 20^{th} International Conference on Computer Science and Education (ICCSE 2026) from July 21 to
+2. Shivam Yadav, Subhav Kumar and **Natesha B V**, “ PCA-based Defense Against Embedding Inversion and User History Leakage in Recommendation Systems” in the Proc. of IEEE 20th International Conference on Computer Science and Education (ICCSE 2026) from July 21 to
 25, 2026, in Budapest, Hungary
 3. Eduardo S. Gama, **Natesha B V**, Roger Immich, and Luiz F. Bittencourt, " An Orchestrator Architecture for Multi-tier Edge/Cloud Video Streaming Services", In Proc. of the IEEE EDGE Conference (EDGE,2023), Chicago, Illinois, USA.
 4. Vijay Mohan Reddy Anakala, M. Rashmi, Natesha B V and Ram Mohana Reddy Guddeti, "Fall Detection and Elderly Monitoring System Using the CNN" in Proc. of the International Conference on Machine Intelligence and Signal Processing (MISP 2022). Lecture Notes in Electrical Engineering, vol 998. Springer.
