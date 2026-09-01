@@ -2,11 +2,18 @@
 layout: default
 title: Research
 ---
-## Broad Research Topics
 
-Edge, Fog Computing, Cloud Computing, IoT/IIoT, Machine Learning, Edge AI and 5G
+###  Research Statement
+> "My research focuses on **autonomous service orchestration across the Edge–Fog–Cloud computing continuum**, **Edge & Generative AI**, and **secure 5G/6G network slicing**. I design resource-aware optimization frameworks, lightweight industrial acoustic intelligence, and resilient edge systems for safety-critical cyber-physical applications."
 
-## Research Work
+## Broad Research Areas
+* Edge, Fog & Cloud Computing (The Computing Continuum)
+* Edge AI & TinyML
+* Generative AI & Foundation Models
+* 5G/6G Network Slicing & Infrastructure Security
+* Industrial IoT (IIoT) & Cyber-Physical Systems
+
+## Research Work and Experience 
 
 ### Recognised Researcher @ **Barcelona Supercomputing Center**, Spain
 
@@ -24,9 +31,23 @@ Doctoral research focused on developing the fog framework on the resources const
 
 Supervisor: [Prof. Ram Mohana Reddy Guddeti](https://infotech.nitk.ac.in/faculty/ram-mohana-reddy-guddeti) 
 
-## Research Interests
-- Orchestrating the service deployment and monitoring the resource in the computing continumm consisting of the Edge-Fog-Cloud Computing Environment. 
-- Deploying the Machine Learning models on edge devices referred to as Edge AI to extract the insights at the network level to make the early decision, reduce the data size and avoid the failures/handle critical issues in the smart environments. 
-- The resource allocation and service management using network devices to support the orchestration of access and core network functions for various use cases in vertical industries such as Automated/Connected Vehicle, Industry 4.0, Smart Health-care, and Video streaming/VoD services. 
-- Network slicing for 5G network supports the orchestration of both access and core network functions for various use cases in vertical industries such as Automotive, Healthcare, and Media, thus providing multiple services and corresponding QoE/QoS requirements. 
-- Focussing on GENAI and Cyber Security 
+## Current Rsearch Interests
+
+### Computing Continuum & Autonomous Orchestration
+* **Dynamic Resource & Service Orchestration:** Mathematical modeling, multi-objective optimization (GA, RL, heuristic scheduling), and intelligent workload placement across heterogeneous Edge–Fog–Cloud architectures.
+* **Cloud-Native Edge Deployments:** Containerized orchestration frameworks (e.g., KubeEdge, OpenYurt, Docker) for automated management of 5G/6G access and core network functions with deterministic QoS/QoE guarantees.
+
+### Edge AI, TinyML & Industrial Intelligence
+* **Acoustic Anomaly Detection & Condition Monitoring:** Lightweight deep learning models leveraging advanced acoustic feature representations (MFCC, GFCC, LPC) for real-time fault diagnostics in Industrial IoT (IIoT).
+* **On-Device Inference & Data Reduction:** Compact neural network architectures optimized for ultra-low latency, energy efficiency, and high-ratio telemetry compression at the network edge.
+
+###  Generative AI & Distributed Foundation Models
+* **Edge-Native GenAI & Physical Reasoning:** Small Language Models (SLMs) and Vision-Language models tailored for physics-informed reasoning, simulator-state supervision, and synthetic sensor data generation.
+* **Efficient Distributed Inference:** Parameter-efficient fine-tuning (PEFT), model quantization, and collaborative edge-fog inference pipelines for resource-constrained environments.
+
+### Network Slicing 
+* **SLA-Driven 5G/6G Network Slicing:** Dynamic slice provisioning, isolation, and lifecycle management for mission-critical verticals including Connected/Autonomous Vehicles (V2X), Smart Healthcare, and Industry 4.0.
+
+---
+
+
