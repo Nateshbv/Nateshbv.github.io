@@ -9,9 +9,10 @@ title: Research
 - Completed a project from  Bosch Global Software Technologies Private Limited,  Titled: "Vehicle Troubleshoot Assistance (using GenAI) for Technicians" for the duration of Six Months from May, 2024 till Oct, 2024. 
 
 ## Ongoing
-- FogSoundNet: Acoustic based Industrial Machine Monitoring using the Computing Continuum Environment
+- Adaptive Intelligent Systems/Digital Twins Over the Computing Continuum
+- Hierarchical AI Analytics in the Computing Continuum 
 - AI-based Resource Prediction and Service Deployment in the Continuum
-- QoS based Service Deployment in the Computing Continuum
+- Resource-Aware, QoS/QoE Aware Service Deployment in the Computing Continuum
 - EdgeAI for Smart Applications
  
 
