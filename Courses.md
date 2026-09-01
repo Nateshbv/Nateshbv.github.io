@@ -15,6 +15,7 @@ Under Graduates
 - Operating Systems
 - Introduction to Data Structures
 - Network Security
+- Introduction to Computer Science
   
 ## Certification Course (For Non CSE Faculties)
 - Co-coordinator for the AICTE-QIP PG Certificate Course on Machine Learning at IIITR. 
