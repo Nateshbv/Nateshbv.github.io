@@ -4,10 +4,10 @@ title: Contact
 ---
 ## You can reach me at:
 
-Dept. of Computer Science and Engineering 
-Indian Institute of Information Technology
-Wadavatti, Gadwal Road
-Raichur – 584102, Karnataka, India
+Dept. of Computer Science and Engineering. 
+Indian Institute of Information Technology. 
+Wadavatti, Gadwal Road   
+Raichur – 584102, Karnataka, India. 
 
 
 
