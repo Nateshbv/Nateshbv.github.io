@@ -15,18 +15,18 @@ title: Research
 
 ## Research Work and Experience 
 
-### Recognised Researcher @ **Barcelona Supercomputing Center**, Spain
+### Recognised Researcher @ **Barcelona Supercomputing Center, Barcelona**, Spain
 
 Worked as a Recognised Researcher in the Predictable Parallel Computing Group, Computer Science Dept., Barcelona Supercomputing Center. My research work mainly focussed on orchestrating (deployment and monitoring) the workflow on the computing continuum consisting of Edge/Fog and Cloud resources for the realtime/time-senstive applications. 
 
 Group: **Predictable Parallel Computing - Computer Sciences**
 
-### Postdoctoral Researcher (Visiting Researcher) @ **Institute of Computing, University of Campinas**, Brazil
+### Postdoctoral Researcher (Visiting Researcher) @ **Institute of Computing, University of Campinas (UNICAMP)**, Brazil
 As a Postdoctoral (Visiting) Researcher at LRC, UNICAMP, worked on developing the orchestration controller for dynamic deployment of the user requests on multi-level computing architecture. The Video Streaming/VoD requests are handled using the multi-level Edge/Fog-Cloud Computing Architecture to stream videos and thus ensure the viewers' QoE and QoS. 
 
 Supervisor: [Prof. Luiz Fernando Bittencourt](https://www.ic.unicamp.br/~bit/)
  
-### Doctoral Researcher @NITK, Surathkal, Karnataka
+### Doctoral Researcher, Dept. of IT, NITK, Surathkal, Karnataka
 Doctoral research focused on developing the multi-level fog framework on the resources constrained devices using docker containers to host and process the IoT/IIoT service requests. Developed a container-based two-level fog framework and then proposed various multi-objective optimization-based service placement strategies using evolutionary algorithms to place the IoT/IIoT service requests in the fog framework. The fog server-based prototype is developed to analyze and classify the machine's operating sounds as normal and abnormal and thus monitor the malfunctioning machines based on their operating sounds in the Smart Industry/Industry 4.0 environment. Further, the fog framework is used to analyze the videos at the device level to identify and classify the vehicles, normal and abnormal activities in Smart Surveillance Environments. 
 
 Supervisor: [Prof. Ram Mohana Reddy Guddeti](https://infotech.nitk.ac.in/faculty/ram-mohana-reddy-guddeti) 
