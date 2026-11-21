@@ -42,7 +42,7 @@ Supervisor: [Prof. Ram Mohana Reddy Guddeti](https://infotech.nitk.ac.in/faculty
 * **On-Device Inference & Data Reduction:** Compact neural network architectures optimized for ultra-low latency, energy efficiency, and high-ratio telemetry compression at the network edge.
 
 ###  Generative AI & Distributed Foundation Models
-* **Edge-Native GenAI & Physical Reasoning:** Small Language Models (SLMs) and Vision-Language models tailored for physics-informed reasoning, simulator-state supervision, and synthetic sensor data generation.
+* **Edge-Native GenAI & Physical Reasoning:** Small Language Models (SLMs) and Vision-Language models (vlm's) tailored for physics-informed reasoning, simulator-state supervision, and synthetic sensor data generation.
 * **Efficient Distributed Inference:** Parameter-efficient fine-tuning (PEFT), model quantization, and collaborative edge-fog inference pipelines for resource-constrained environments.
 
 ### Network Slicing 
