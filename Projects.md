@@ -6,7 +6,7 @@ title: Research
  
  Completed 
 
-- Completed a project from  Bosch Global Software Technologies Private Limited,  Titled: "Vehicle Troubleshoot Assistance (using GenAI) for Technicians" for the duration of Six Months from May, 2024 till Oct, 2024. 
+- Completed a project from  Bosch Global Software Technologies Private Limited,  Titled: "Vehicle Troubleshoot Assistance (using GenAI) for Technicians" for the duration of Six Months from May, 2024 till Dec, 2024. 
 
 ## Ongoing
 - Adaptive Intelligent Systems/Digital Twins Over the Computing Continuum
