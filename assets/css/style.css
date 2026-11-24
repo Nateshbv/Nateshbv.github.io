@@ -101,7 +101,7 @@ ul {
 /* ----- Photo Styling ----- */
 .home-photo {
   width: 200px;
-  height: 100px;
+  height: 200px;
   object-fit: cover; /* ensures image fills the circle nicely */
   border-radius: 50%;
   display: block;
